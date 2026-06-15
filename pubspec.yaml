@@ -53,7 +53,7 @@ dev_dependencies:
   flutter_lints: ^3.0.0
   build_runner: ^2.4.6
   riverpod_generator: ^2.3.9
-  retrofit_generator: ^7.1.0
+  retrofit_generator: ^8.0.6
 
 flutter:
   uses-material-design: true
