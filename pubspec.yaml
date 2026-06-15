@@ -37,7 +37,7 @@ dependencies:
 
   google_maps_flutter: ^2.6.1
   geolocator: ^11.0.0
-  polyline: ^1.1.0
+  
 
   google_fonts: ^6.2.1
   flutter_svg: ^2.0.10+1
